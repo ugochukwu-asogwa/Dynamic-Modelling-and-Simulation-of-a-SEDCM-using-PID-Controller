@@ -1,4 +1,4 @@
-# PID Speed Control of a Separately Excited DC Motor using Simulink
+# Dynamic Modelling and Simulation of a SEDCM using PID Controller
 
 > A Simulink implementation of a PID-controlled Separately Excited DC Motor (SEDCM) for speed regulation under varying load conditions.
 
