@@ -217,7 +217,7 @@ The simulations evaluate the following motor characteristics:
 <table>
   <tr>
     <td>
-      <img src="results/open-loop-armature-current.png" width="400"/>
+      <img src="results/open-loop-armature-current.png" width="450"/>
     </td>
     <td>
       <img src="results/closed-loop-armature-current.png" width="400"/>
@@ -235,7 +235,7 @@ The simulations evaluate the following motor characteristics:
       <img src="results/open-loop-field-current.png" width="400"/>
     </td>
     <td>
-      <img src="results/closed-loop-field-current.png" width="400"/>
+      <img src="results/closed-loop-field-current.png" width="450"/>
     </td>
   </tr>
 </table>
@@ -250,7 +250,7 @@ The simulations evaluate the following motor characteristics:
       <img src="results/open-loop-torque.png" width="400"/>
     </td>
     <td>
-      <img src="results/closed-loop-torque.png" width="400"/>
+      <img src="results/closed-loop-torque.png" width="450"/>
     </td>
   </tr>
 </table>
@@ -272,4 +272,3 @@ The simulations evaluate the following motor characteristics:
 
 * MATLAB
 * Simulink
-* Control System Toolbox (for PID Tuner)
