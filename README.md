@@ -181,19 +181,11 @@ The simulations evaluate the following motor characteristics:
 
 ### Open-Loop Model
 
-```text
-images/open-loop-model.png
-```
-
 ![Open Loop Model](images/open-loop-model.png)
 
 ---
 
 ### PID Controller
-
-```text
-images/PID-controller.png
-```
 
 ![PID Controller](images/pid-controller.png)
 
@@ -201,25 +193,16 @@ images/PID-controller.png
 
 ### Closed-Loop PID Model
 
-```text
-images/closed-loop-model.png
-```
-
 ![Closed Loop Model](images/closed-loop-model.png)
 
 ---
 
 ### Motor Speed
 
-> Insert simulation result.
-
-```text
-images/motor-speed.png
-```
 <table>
   <tr>
     <td>
-      <img src="results/open-loop-speed.png" width="400"/>
+      <img src="results/open-loop-speed.png" width="450"/>
     </td>
     <td>
       <img src="results/closed-loop-speed.png" width="400"/>
@@ -230,12 +213,6 @@ images/motor-speed.png
 ---
 
 ### Armature Current
-
-> Insert simulation result.
-
-```text
-images/armature-current.png
-```
 
 <table>
   <tr>
@@ -252,12 +229,6 @@ images/armature-current.png
 
 ### Field Current
 
-> Insert simulation result.
-
-```text
-images/field-current.png
-```
-
 <table>
   <tr>
     <td>
@@ -272,12 +243,6 @@ images/field-current.png
 ---
 
 ### Torque
-
-> Insert simulation result.
-
-```text
-images/disturbance-response.png
-```
 
 <table>
   <tr>
